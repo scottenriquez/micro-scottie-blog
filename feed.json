@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://scottie.micro.blog/2020/08/29/its-draft-day.html",
+				
+				"content_html": "<p>It&rsquo;s draft day.</p>\n\n<p><img src=\"uploads/2020/ad6e7ae729.jpg\" width=\"600\" height=\"224\" alt=\"\" /></p>\n",
+				"content_text": "It's draft day.\n\n<img src=\"uploads/2020/ad6e7ae729.jpg\" width=\"600\" height=\"224\" alt=\"\" />\n",
+				"date_published": "2020-08-29T11:11:17-05:00",
+				"url": "https://micro.scottie.blog/2020/08/29/its-draft-day.html"
+			},
+			{
+				"id": "http://scottie.micro.blog/2020/08/24/im-looking-back.html",
+				
+				"content_html": "<p>I&rsquo;m looking back at pictures I took of Mt. Fuji last year. I can&rsquo;t wait to go back.</p>\n\n<p><img src=\"uploads/2020/bd4a9c4b3d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/df46f47a64.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I'm looking back at pictures I took of Mt. Fuji last year. I can't wait to go back.\n\n<img src=\"uploads/2020/bd4a9c4b3d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/df46f47a64.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-08-24T21:26:35-05:00",
+				"url": "https://micro.scottie.blog/2020/08/24/im-looking-back.html"
+			},
+			{
+				"id": "http://scottie.micro.blog/2020/08/22/the-out-of.html",
+				
+				"content_html": "<p>The out of the box Netlify CI/CD features and GitHub pull request integration with deploy previews are fantastic.</p>\n\n<p><img src=\"uploads/2020/235414358f.jpg\" width=\"600\" height=\"312\" alt=\"\" /></p>\n",
+				"content_text": "The out of the box Netlify CI/CD features and GitHub pull request integration with deploy previews are fantastic.\n\n<img src=\"uploads/2020/235414358f.jpg\" width=\"600\" height=\"312\" alt=\"\" />\n",
+				"date_published": "2020-08-22T17:04:24-05:00",
+				"url": "https://micro.scottie.blog/2020/08/22/the-out-of.html"
+			},
+			{
+				"id": "http://scottie.micro.blog/2020/08/20/these-github-backups.html",
+				
+				"content_html": "<p>These GitHub backups are nifty.</p>\n",
+				"content_text": "These GitHub backups are nifty.\n",
+				"date_published": "2020-08-20T23:14:25-05:00",
+				"url": "https://micro.scottie.blog/2020/08/20/these-github-backups.html"
+			},
+			{
 				"id": "http://scottie.micro.blog/2020/08/17/i-made-some.html",
 				
 				"content_html": "<p>I made some good progress on my app this evening. I&rsquo;ve still got a long way to go before I feel truly comfortable doing iOS development.</p>\n\n<p><img src=\"uploads/2020/d61f500de6.jpg\" width=\"380\" height=\"600\" alt=\"\" /></p>\n",
