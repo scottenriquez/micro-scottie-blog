@@ -7,11 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://scottie.micro.blog/2020/09/18/i-benched-drew.html",
+				
+				"content_html": "<p>🏈 I benched Drew Brees for Joey Burrow last night. Thanks to a garbage time touchdown, it&rsquo;s looking like that decision will pay off.</p>\n",
+				"content_text": "🏈 I benched Drew Brees for Joey Burrow last night. Thanks to a garbage time touchdown, it's looking like that decision will pay off.\n",
+				"date_published": "2020-09-18T13:53:57-05:00",
+				"url": "https://micro.scottie.blog/2020/09/18/i-benched-drew.html"
+			},
+			{
+				"id": "http://scottie.micro.blog/2020/09/14/the-age-of.html",
+				
+				"content_html": "<p>📚 The Age of Surveillance Capitalism by Shoshana Zuboff</p>\n",
+				"content_text": "📚 The Age of Surveillance Capitalism by Shoshana Zuboff\n",
+				"date_published": "2020-09-14T21:03:26-05:00",
+				"url": "https://micro.scottie.blog/2020/09/14/the-age-of.html"
+			},
+			{
 				"id": "http://scottie.micro.blog/2020/09/09/im-currently-preparing.html",
 				
 				"content_html": "<p>🏈 I&rsquo;m currently preparing for the draft for my golf score fantasy football league. The objective to get the lowest, non-zero score for each position. If your player scores a zero (without a catch, carry, or pass), a ton of points get added. Any thoughts on who I should draft?</p>\n",
 				"content_text": "🏈 I'm currently preparing for the draft for my golf score fantasy football league. The objective to get the lowest, non-zero score for each position. If your player scores a zero (without a catch, carry, or pass), a ton of points get added. Any thoughts on who I should draft?\n",
-				"date_published": "2020-09-09T15:30:24-07:00",
+				"date_published": "2020-09-09T17:30:24-05:00",
 				"url": "https://micro.scottie.blog/2020/09/09/im-currently-preparing.html"
 			},
 			{
@@ -19,7 +35,7 @@
 				
 				"content_html": "<p>🏈🏀 Not a great sports day for me. It started with my RB2 getting waived and ended with a Russell Westbrook implosion. I&rsquo;m hoping for Leonard Fournette to find a good home and that the Rockets don&rsquo;t choke in game seven.</p>\n",
 				"content_text": "🏈🏀 Not a great sports day for me. It started with my RB2 getting waived and ended with a Russell Westbrook implosion. I'm hoping for Leonard Fournette to find a good home and that the Rockets don't choke in game seven.\n",
-				"date_published": "2020-08-31T21:52:16-07:00",
+				"date_published": "2020-08-31T23:52:16-05:00",
 				"url": "https://micro.scottie.blog/2020/08/31/not-a-great.html"
 			},
 			{
@@ -27,7 +43,7 @@
 				
 				"content_html": "<p>It&rsquo;s draft day.</p>\n\n<p><img src=\"uploads/2020/ad6e7ae729.jpg\" width=\"600\" height=\"224\" alt=\"\" /></p>\n",
 				"content_text": "It's draft day.\n\n<img src=\"uploads/2020/ad6e7ae729.jpg\" width=\"600\" height=\"224\" alt=\"\" />\n",
-				"date_published": "2020-08-29T09:11:17-07:00",
+				"date_published": "2020-08-29T11:11:17-05:00",
 				"url": "https://micro.scottie.blog/2020/08/29/its-draft-day.html"
 			},
 			{
@@ -35,7 +51,7 @@
 				
 				"content_html": "<p>I&rsquo;m looking back at pictures I took of Mt. Fuji last year. I can&rsquo;t wait to go back.</p>\n\n<p><img src=\"uploads/2020/bd4a9c4b3d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/df46f47a64.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "I'm looking back at pictures I took of Mt. Fuji last year. I can't wait to go back.\n\n<img src=\"uploads/2020/bd4a9c4b3d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/df46f47a64.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2020-08-24T19:26:35-07:00",
+				"date_published": "2020-08-24T21:26:35-05:00",
 				"url": "https://micro.scottie.blog/2020/08/24/im-looking-back.html"
 			},
 			{
@@ -43,7 +59,7 @@
 				
 				"content_html": "<p>The out of the box Netlify CI/CD features and GitHub pull request integration with deploy previews are fantastic.</p>\n\n<p><img src=\"uploads/2020/235414358f.jpg\" width=\"600\" height=\"312\" alt=\"\" /></p>\n",
 				"content_text": "The out of the box Netlify CI/CD features and GitHub pull request integration with deploy previews are fantastic.\n\n<img src=\"uploads/2020/235414358f.jpg\" width=\"600\" height=\"312\" alt=\"\" />\n",
-				"date_published": "2020-08-22T15:04:24-07:00",
+				"date_published": "2020-08-22T17:04:24-05:00",
 				"url": "https://micro.scottie.blog/2020/08/22/the-out-of.html"
 			},
 			{
@@ -51,7 +67,7 @@
 				
 				"content_html": "<p>These GitHub backups are nifty.</p>\n",
 				"content_text": "These GitHub backups are nifty.\n",
-				"date_published": "2020-08-20T21:14:25-07:00",
+				"date_published": "2020-08-20T23:14:25-05:00",
 				"url": "https://micro.scottie.blog/2020/08/20/these-github-backups.html"
 			},
 			{
@@ -59,7 +75,7 @@
 				
 				"content_html": "<p>I made some good progress on my app this evening. I&rsquo;ve still got a long way to go before I feel truly comfortable doing iOS development.</p>\n\n<p><img src=\"uploads/2020/d61f500de6.jpg\" width=\"380\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "I made some good progress on my app this evening. I've still got a long way to go before I feel truly comfortable doing iOS development.\n\n<img src=\"uploads/2020/d61f500de6.jpg\" width=\"380\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-08-17T18:48:51-07:00",
+				"date_published": "2020-08-17T20:48:51-05:00",
 				"url": "https://micro.scottie.blog/2020/08/17/i-made-some.html"
 			},
 			{
@@ -67,7 +83,7 @@
 				
 				"content_html": "<p>🎵 <a href=\"https://protestthehero.bandcamp.com/track/soliloquy\">Soliloquy by Protest the Hero</a></p>\n\n<p><img src=\"uploads/2020/1429e9d901.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "🎵 [Soliloquy by Protest the Hero](https://protestthehero.bandcamp.com/track/soliloquy)\n\n<img src=\"uploads/2020/1429e9d901.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-08-16T15:06:40-07:00",
+				"date_published": "2020-08-16T17:06:40-05:00",
 				"url": "https://micro.scottie.blog/2020/08/16/soliloquy-by-protest.html"
 			},
 			{
@@ -75,7 +91,7 @@
 				
 				"content_html": "<p>I&rsquo;ve been using Visual Studio Code for text transformation that I might have previously written a script to do. I just learned that replace functionality supports capture groups in regular expressions. For example, replacing <code>&quot;(\\d+)&quot;</code> with <code>$1</code>.</p>\n\n<p><img src=\"uploads/2020/167e83965d.jpg\" width=\"600\" height=\"311\" alt=\"\" /></p>\n",
 				"content_text": "I've been using Visual Studio Code for text transformation that I might have previously written a script to do. I just learned that replace functionality supports capture groups in regular expressions. For example, replacing `\"(\\d+)\"` with `$1`.\n\n<img src=\"uploads/2020/167e83965d.jpg\" width=\"600\" height=\"311\" alt=\"\" />\n",
-				"date_published": "2020-08-16T14:30:00-07:00",
+				"date_published": "2020-08-16T16:30:00-05:00",
 				"url": "https://micro.scottie.blog/2020/08/16/ive-been-using.html"
 			},
 			{
@@ -83,7 +99,7 @@
 				
 				"content_html": "<p>🏈 Working on a little <a href=\"https://github.com/the-winner-is-a-tryhard/power-rankings-markdown-cli\">CLI tool</a> to generate Markdown for power rankings populated with Sleeper fantasy football data for my league&rsquo;s new Gatsby site. I&rsquo;m already loving our decision to leave ESPN.</p>\n\n<p><img src=\"uploads/2020/ab52ad8040.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "🏈 Working on a little [CLI tool](https://github.com/the-winner-is-a-tryhard/power-rankings-markdown-cli) to generate Markdown for power rankings populated with Sleeper fantasy football data for my league's new Gatsby site. I'm already loving our decision to leave ESPN.\n\n<img src=\"uploads/2020/ab52ad8040.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-08-14T14:32:17-07:00",
+				"date_published": "2020-08-14T16:32:17-05:00",
 				"url": "https://micro.scottie.blog/2020/08/14/working-on-a.html"
 			},
 			{
@@ -91,7 +107,7 @@
 				
 				"content_html": "<p>🎵 <a href=\"https://nightverses.bandcamp.com/album/from-the-gallery-of-sleep\">Copper Wasp by Night Verses</a></p>\n\n<p><img src=\"uploads/2020/8ddf4c1108.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "🎵 [Copper Wasp by Night Verses](https://nightverses.bandcamp.com/album/from-the-gallery-of-sleep)\n\n<img src=\"uploads/2020/8ddf4c1108.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-08-13T16:48:52-07:00",
+				"date_published": "2020-08-13T18:48:52-05:00",
 				"url": "https://micro.scottie.blog/2020/08/13/copper-wasp-by.html"
 			},
 			{
@@ -99,7 +115,7 @@
 				
 				"content_html": "<p>I&rsquo;m trying this radical new thing where I log off of work at 5pm.</p>\n",
 				"content_text": "I'm trying this radical new thing where I log off of work at 5pm.\n",
-				"date_published": "2020-08-12T15:11:58-07:00",
+				"date_published": "2020-08-12T17:11:58-05:00",
 				"url": "https://micro.scottie.blog/2020/08/12/im-trying-this.html"
 			},
 			{
@@ -107,7 +123,7 @@
 				
 				"content_html": "<p>📝 I&rsquo;ve felt particularly fatigued with notifications lately. Endless IMs, emails, group chats, text messages, phone calls, etc. I need to not be so obsessive about getting my notifications cleared. I&rsquo;m also still working on how to filter the noise too.</p>\n",
 				"content_text": "📝 I've felt particularly fatigued with notifications lately. Endless IMs, emails, group chats, text messages, phone calls, etc. I need to not be so obsessive about getting my notifications cleared. I'm also still working on how to filter the noise too.\n",
-				"date_published": "2020-08-10T21:16:39-07:00",
+				"date_published": "2020-08-10T23:16:39-05:00",
 				"url": "https://micro.scottie.blog/2020/08/10/ive-felt-particularly.html"
 			},
 			{
@@ -115,7 +131,7 @@
 				
 				"content_html": "<p>&ldquo;Have you heard?\nI’m not worth my weight in words.&rdquo;\n🎵 <a href=\"https://goodmorningisaband.bandcamp.com/track/mirror-freak\">Mirror Freak by Good Morning</a></p>\n\n<p><img src=\"uploads/2020/992a50caaf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "\"Have you heard?\nI’m not worth my weight in words.\"\n🎵 [Mirror Freak by Good Morning](https://goodmorningisaband.bandcamp.com/track/mirror-freak)\n\n<img src=\"uploads/2020/992a50caaf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-08-09T16:36:00-07:00",
+				"date_published": "2020-08-09T18:36:00-05:00",
 				"url": "https://micro.scottie.blog/2020/08/09/have-you-heardim.html"
 			},
 			{
@@ -123,7 +139,7 @@
 				
 				"content_html": "<p>🏈 Seems like it&rsquo;s only a matter of time now before one of the P5 conferences officially announces the cancelation or postponement of college football. It&rsquo;s the right call but still a tough pill to swallow for so many reasons.</p>\n",
 				"content_text": "🏈 Seems like it's only a matter of time now before one of the P5 conferences officially announces the cancelation or postponement of college football. It's the right call but still a tough pill to swallow for so many reasons.\n",
-				"date_published": "2020-08-08T19:55:37-07:00",
+				"date_published": "2020-08-08T21:55:37-05:00",
 				"url": "https://micro.scottie.blog/2020/08/08/seems-like-its.html"
 			},
 			{
@@ -131,7 +147,7 @@
 				
 				"content_html": "<p>📝 Polling my friends about microblogging.</p>\n\n<p><img src=\"uploads/2020/251da137af.jpg\" width=\"600\" height=\"220\" alt=\"\" /><img src=\"uploads/2020/617b30dea9.jpg\" width=\"600\" height=\"244\" alt=\"\" /></p>\n",
 				"content_text": "📝 Polling my friends about microblogging.\n\n<img src=\"uploads/2020/251da137af.jpg\" width=\"600\" height=\"220\" alt=\"\" /><img src=\"uploads/2020/617b30dea9.jpg\" width=\"600\" height=\"244\" alt=\"\" />\n",
-				"date_published": "2020-08-04T09:18:23-07:00",
+				"date_published": "2020-08-04T11:18:23-05:00",
 				"url": "https://micro.scottie.blog/2020/08/04/polling-my-friends.html"
 			},
 			{
@@ -139,7 +155,7 @@
 				
 				"content_html": "<p>📚 Anyone have any Murakami-esque book recommendations?</p>\n",
 				"content_text": "📚 Anyone have any Murakami-esque book recommendations?\n",
-				"date_published": "2020-08-03T14:50:19-07:00",
+				"date_published": "2020-08-03T16:50:19-05:00",
 				"url": "https://micro.scottie.blog/2020/08/03/anyone-have-any.html"
 			},
 			{
@@ -147,7 +163,7 @@
 				
 				"content_html": "<p>I&rsquo;ve felt myself withdrawing more and more from the internet due to constant, crippling negativity. From incendiary Reddit threads about pointless fandoms to the unbridled elitism of StackOverflow to the rampant distortion of public opinion by malicious bots on Twitter, even just being a bystander has started to bum me out. At first, I didn&rsquo;t know if there was much point to microblogging since I already have a dedicated blog. I&rsquo;m still very new to this concept but excited for something different.</p>\n",
 				"content_text": "I've felt myself withdrawing more and more from the internet due to constant, crippling negativity. From incendiary Reddit threads about pointless fandoms to the unbridled elitism of StackOverflow to the rampant distortion of public opinion by malicious bots on Twitter, even just being a bystander has started to bum me out. At first, I didn't know if there was much point to microblogging since I already have a dedicated blog. I'm still very new to this concept but excited for something different.\n",
-				"date_published": "2020-08-02T22:00:03-07:00",
+				"date_published": "2020-08-03T00:00:03-05:00",
 				"url": "https://micro.scottie.blog/2020/08/03/ive-felt-myself.html"
 			}
 	]
