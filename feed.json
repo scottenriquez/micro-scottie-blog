@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://scottie.micro.blog/2020/10/14/the-marriage-plot.html",
+				
+				"content_html": "<p>📚 The Marriage Plot by Jeffrey Eugenides</p>\n",
+				"content_text": "📚 The Marriage Plot by Jeffrey Eugenides\n",
+				"date_published": "2020-10-14T22:21:42-05:00",
+				"url": "https://micro.scottie.blog/2020/10/14/the-marriage-plot.html"
+			},
+			{
+				"id": "http://scottie.micro.blog/2020/09/22/ive-been-using.html",
+				
+				"content_html": "<p>💻 I&rsquo;ve been using Visual Studio Code even more than the JetBrains suite lately. It may be my primary editor very soon.</p>\n",
+				"content_text": "💻 I've been using Visual Studio Code even more than the JetBrains suite lately. It may be my primary editor very soon.\n",
+				"date_published": "2020-09-22T15:52:02-05:00",
+				"url": "https://micro.scottie.blog/2020/09/22/ive-been-using.html"
+			},
+			{
 				"id": "http://scottie.micro.blog/2020/09/18/i-benched-drew.html",
 				
 				"content_html": "<p>🏈 I benched Drew Brees for Joey Burrow last night. Thanks to a garbage time touchdown, it&rsquo;s looking like that decision will pay off.</p>\n",
