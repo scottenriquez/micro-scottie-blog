@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://scottie.micro.blog/2020/10/24/visual-studio-codes.html",
+				
+				"content_html": "<p>💻 Visual Studio Code&rsquo;s Live Share extension is just incredible!</p>\n",
+				"content_text": "💻 Visual Studio Code's Live Share extension is just incredible!\n",
+				"date_published": "2020-10-24T21:25:50-05:00",
+				"url": "https://micro.scottie.blog/2020/10/24/visual-studio-codes.html"
+			},
+			{
+				"id": "http://scottie.micro.blog/2020/10/14/the-astros-survive.html",
+				
+				"content_html": "<p>⚾️ The Astros survive for now.</p>\n",
+				"content_text": "⚾️ The Astros survive for now.\n",
+				"date_published": "2020-10-14T22:49:36-05:00",
+				"url": "https://micro.scottie.blog/2020/10/14/the-astros-survive.html"
+			},
+			{
 				"id": "http://scottie.micro.blog/2020/10/14/the-marriage-plot.html",
 				
 				"content_html": "<p>📚 The Marriage Plot by Jeffrey Eugenides</p>\n",
