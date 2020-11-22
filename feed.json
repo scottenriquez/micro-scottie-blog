@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://scottie.micro.blog/2020/11/22/i-wonder-how.html",
+				
+				"content_html": "<p>\u000f💻 I wonder how long it will be until the new Apple ARM chips are viable for engineering outside of Xcode (e.g., virtualization support, Docker support, widespread adoption by Homebrew packages, etc.).</p>\n",
+				"content_text": "\u000f💻 I wonder how long it will be until the new Apple ARM chips are viable for engineering outside of Xcode (e.g., virtualization support, Docker support, widespread adoption by Homebrew packages, etc.).\n",
+				"date_published": "2020-11-22T16:42:15-06:00",
+				"url": "https://micro.scottie.blog/2020/11/22/i-wonder-how.html"
+			},
+			{
 				"id": "http://scottie.micro.blog/2020/11/07/im-trying-out.html",
 				
 				"content_html": "<p>💻 I&rsquo;m trying out Cloud9 on AWS:</p>\n\n<pre><code class=\"language-yaml\">Resources:\n  rCloud9Environment:\n    Type: AWS::Cloud9::EnvironmentEC2\n    Properties:\n      AutomaticStopTimeMinutes: 30\n      ConnectionType: CONNECT_SSM\n      Description: Web-based cloud development environment\n      InstanceType: m5.large\t\n      Name: Cloud9Environment\n      Repositories: \n        - PathComponent: '/repos'\n          RepositoryUrl: !GetAtt rCloud9WorkingRepository.CloneUrlHttp\n  rCloud9WorkingRepository:\n    Type: AWS::CodeCommit::Repository\n    Properties:\n      RepositoryName: Cloud9WorkingRepository\n      RepositoryDescription: A CodeCommit repository for stashing work from the Cloud9 IDE\n</code></pre>\n",
