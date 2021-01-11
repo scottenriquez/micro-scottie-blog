@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://scottie.micro.blog/2021/01/11/im-finally-getting.html",
+				
+				"content_html": "<p>🎮 I&rsquo;m finally getting around to playing Final Fantasy VII Remake. The graphics are absolutely beautiful. The soundtrack has me feeling nostalgic too. It&rsquo;s mind-blowing how far gaming has come since I first played the original.</p>\n",
+				"content_text": "🎮 I'm finally getting around to playing Final Fantasy VII Remake. The graphics are absolutely beautiful. The soundtrack has me feeling nostalgic too. It's mind-blowing how far gaming has come since I first played the original.\n",
+				"date_published": "2021-01-11T17:53:46-06:00",
+				"url": "https://micro.scottie.blog/2021/01/11/im-finally-getting.html"
+			},
+			{
 				"id": "http://scottie.micro.blog/2020/11/22/i-wonder-how.html",
 				
-				"content_html": "<p>\u000f💻 I wonder how long it will be until the new Apple ARM chips are viable for engineering outside of Xcode (e.g., virtualization support, Docker support, widespread adoption by Homebrew packages, etc.).</p>\n",
-				"content_text": "\u000f💻 I wonder how long it will be until the new Apple ARM chips are viable for engineering outside of Xcode (e.g., virtualization support, Docker support, widespread adoption by Homebrew packages, etc.).\n",
+				"content_html": "<p>💻 I wonder how long it will be until the new Apple ARM chips are viable for engineering outside of Xcode (e.g., virtualization support, Docker support, widespread adoption by Homebrew packages, etc.).</p>\n",
+				"content_text": "💻 I wonder how long it will be until the new Apple ARM chips are viable for engineering outside of Xcode (e.g., virtualization support, Docker support, widespread adoption by Homebrew packages, etc.).\n",
 				"date_published": "2020-11-22T16:42:15-06:00",
 				"url": "https://micro.scottie.blog/2020/11/22/i-wonder-how.html"
 			},
