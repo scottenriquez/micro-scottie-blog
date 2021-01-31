@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://scottie.micro.blog/2021/01/31/cdk-is-such.html",
+				
+				"content_html": "<p>💻 CDK is such a game-changer. It addresses pretty much all of my complaints with CloudFormation. Now to learn TypeScript better.</p>\n",
+				"content_text": "💻 CDK is such a game-changer. It addresses pretty much all of my complaints with CloudFormation. Now to learn TypeScript better.\n",
+				"date_published": "2021-01-31T13:11:28-06:00",
+				"url": "https://micro.scottie.blog/2021/01/31/cdk-is-such.html"
+			},
+			{
 				"id": "http://scottie.micro.blog/2021/01/11/im-finally-getting.html",
 				
 				"content_html": "<p>🎮 I&rsquo;m finally getting around to playing Final Fantasy VII Remake. The graphics are absolutely beautiful. The soundtrack has me feeling nostalgic too. It&rsquo;s mind-blowing how far gaming has come since I first played the original.</p>\n",
