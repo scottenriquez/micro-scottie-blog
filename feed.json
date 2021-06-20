@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://scottie.micro.blog/2021/06/20/im-absolutely-loving.html",
+				
+				"content_html": "<p>🎮 I&rsquo;m absolutely loving my first playthrough of Persona 5 Royal. The <a href=\"https://podcasts.apple.com/gb/podcast/take-your-time-a-persona-5-in-real-time-podcast/id1562346852\">Take Your Time podcast</a> is a wonderful companion for the game.</p>\n",
+				"content_text": "🎮 I'm absolutely loving my first playthrough of Persona 5 Royal. The [Take Your Time podcast](https://podcasts.apple.com/gb/podcast/take-your-time-a-persona-5-in-real-time-podcast/id1562346852) is a wonderful companion for the game.\n",
+				"date_published": "2021-06-20T15:54:02-05:00",
+				"url": "https://micro.scottie.blog/2021/06/20/im-absolutely-loving.html"
+			},
+			{
 				"id": "http://scottie.micro.blog/2021/05/21/worklife-balance-is.html",
 				
-				"content_html": "<p>Work-life balance is such a tricky thing. I&rsquo;ve been good about creating physical separation when I log off, but the mental compartmentalization has been particularly difficult lately.</p>\n",
-				"content_text": "Work-life balance is such a tricky thing. I've been good about creating physical separation when I log off, but the mental compartmentalization has been particularly difficult lately.\n",
+				"content_html": "<p>💻 Work-life balance is such a tricky thing. I&rsquo;ve been good about creating physical separation when I log off, but the mental compartmentalization has been particularly difficult lately.</p>\n",
+				"content_text": "💻 Work-life balance is such a tricky thing. I've been good about creating physical separation when I log off, but the mental compartmentalization has been particularly difficult lately.\n",
 				"date_published": "2021-05-21T17:55:53-05:00",
 				"url": "https://micro.scottie.blog/2021/05/21/worklife-balance-is.html"
 			},
