@@ -129,24 +129,24 @@
 			{
 				"id": "http://scottie.micro.blog/2020/08/29/its-draft-day.html",
 				
-				"content_html": "<p>It&rsquo;s draft day.</p>\n\n<p><img src=\"uploads/2020/ad6e7ae729.jpg\" width=\"600\" height=\"224\" alt=\"\" /></p>\n",
-				"content_text": "It's draft day.\n\n<img src=\"uploads/2020/ad6e7ae729.jpg\" width=\"600\" height=\"224\" alt=\"\" />\n",
+				"content_html": "<p>It&rsquo;s draft day.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25666/2020/ad6e7ae729.jpg\" width=\"600\" height=\"224\" alt=\"\" /></p>\n",
+				"content_text": "It's draft day.\n\n<img src=\"https://cdn.uploads.micro.blog/25666/2020/ad6e7ae729.jpg\" width=\"600\" height=\"224\" alt=\"\" />\n",
 				"date_published": "2020-08-29T09:11:17-07:00",
 				"url": "https://micro.scottie.blog/2020/08/29/its-draft-day.html"
 			},
 			{
 				"id": "http://scottie.micro.blog/2020/08/24/im-looking-back.html",
 				
-				"content_html": "<p>I&rsquo;m looking back at pictures I took of Mt. Fuji last year. I can&rsquo;t wait to go back.</p>\n\n<p><img src=\"uploads/2020/bd4a9c4b3d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/df46f47a64.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "I'm looking back at pictures I took of Mt. Fuji last year. I can't wait to go back.\n\n<img src=\"uploads/2020/bd4a9c4b3d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/df46f47a64.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;m looking back at pictures I took of Mt. Fuji last year. I can&rsquo;t wait to go back.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25666/2020/bd4a9c4b3d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/25666/2020/df46f47a64.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I'm looking back at pictures I took of Mt. Fuji last year. I can't wait to go back.\n\n<img src=\"https://cdn.uploads.micro.blog/25666/2020/bd4a9c4b3d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/25666/2020/df46f47a64.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-08-24T19:26:35-07:00",
 				"url": "https://micro.scottie.blog/2020/08/24/im-looking-back.html"
 			},
 			{
 				"id": "http://scottie.micro.blog/2020/08/22/the-out-of.html",
 				
-				"content_html": "<p>The out of the box Netlify CI/CD features and GitHub pull request integration with deploy previews are fantastic.</p>\n\n<p><img src=\"uploads/2020/235414358f.jpg\" width=\"600\" height=\"312\" alt=\"\" /></p>\n",
-				"content_text": "The out of the box Netlify CI/CD features and GitHub pull request integration with deploy previews are fantastic.\n\n<img src=\"uploads/2020/235414358f.jpg\" width=\"600\" height=\"312\" alt=\"\" />\n",
+				"content_html": "<p>The out of the box Netlify CI/CD features and GitHub pull request integration with deploy previews are fantastic.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25666/2020/235414358f.jpg\" width=\"600\" height=\"312\" alt=\"\" /></p>\n",
+				"content_text": "The out of the box Netlify CI/CD features and GitHub pull request integration with deploy previews are fantastic.\n\n<img src=\"https://cdn.uploads.micro.blog/25666/2020/235414358f.jpg\" width=\"600\" height=\"312\" alt=\"\" />\n",
 				"date_published": "2020-08-22T15:04:24-07:00",
 				"url": "https://micro.scottie.blog/2020/08/22/the-out-of.html"
 			},
@@ -161,16 +161,16 @@
 			{
 				"id": "http://scottie.micro.blog/2020/08/17/i-made-some.html",
 				
-				"content_html": "<p>I made some good progress on my app this evening. I&rsquo;ve still got a long way to go before I feel truly comfortable doing iOS development.</p>\n\n<p><img src=\"uploads/2020/d61f500de6.jpg\" width=\"380\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I made some good progress on my app this evening. I've still got a long way to go before I feel truly comfortable doing iOS development.\n\n<img src=\"uploads/2020/d61f500de6.jpg\" width=\"380\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I made some good progress on my app this evening. I&rsquo;ve still got a long way to go before I feel truly comfortable doing iOS development.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25666/2020/d61f500de6.jpg\" width=\"380\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I made some good progress on my app this evening. I've still got a long way to go before I feel truly comfortable doing iOS development.\n\n<img src=\"https://cdn.uploads.micro.blog/25666/2020/d61f500de6.jpg\" width=\"380\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-17T18:48:51-07:00",
 				"url": "https://micro.scottie.blog/2020/08/17/i-made-some.html"
 			},
 			{
 				"id": "http://scottie.micro.blog/2020/08/16/soliloquy-by-protest.html",
 				
-				"content_html": "<p>🎵 <a href=\"https://protestthehero.bandcamp.com/track/soliloquy\">Soliloquy by Protest the Hero</a></p>\n\n<p><img src=\"uploads/2020/1429e9d901.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "🎵 [Soliloquy by Protest the Hero](https://protestthehero.bandcamp.com/track/soliloquy)\n\n<img src=\"uploads/2020/1429e9d901.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>🎵 <a href=\"https://protestthehero.bandcamp.com/track/soliloquy\">Soliloquy by Protest the Hero</a></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25666/2020/1429e9d901.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🎵 [Soliloquy by Protest the Hero](https://protestthehero.bandcamp.com/track/soliloquy)\n\n<img src=\"https://cdn.uploads.micro.blog/25666/2020/1429e9d901.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-16T15:06:40-07:00",
 				"url": "https://micro.scottie.blog/2020/08/16/soliloquy-by-protest.html"
 			},
@@ -185,16 +185,16 @@
 			{
 				"id": "http://scottie.micro.blog/2020/08/14/working-on-a.html",
 				
-				"content_html": "<p>🏈 Working on a little <a href=\"https://github.com/the-winner-is-a-tryhard/power-rankings-markdown-cli\">CLI tool</a> to generate Markdown for power rankings populated with Sleeper fantasy football data for my league&rsquo;s new Gatsby site. I&rsquo;m already loving our decision to leave ESPN.</p>\n\n<p><img src=\"uploads/2020/ab52ad8040.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "🏈 Working on a little [CLI tool](https://github.com/the-winner-is-a-tryhard/power-rankings-markdown-cli) to generate Markdown for power rankings populated with Sleeper fantasy football data for my league's new Gatsby site. I'm already loving our decision to leave ESPN.\n\n<img src=\"uploads/2020/ab52ad8040.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>🏈 Working on a little <a href=\"https://github.com/the-winner-is-a-tryhard/power-rankings-markdown-cli\">CLI tool</a> to generate Markdown for power rankings populated with Sleeper fantasy football data for my league&rsquo;s new Gatsby site. I&rsquo;m already loving our decision to leave ESPN.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25666/2020/ab52ad8040.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🏈 Working on a little [CLI tool](https://github.com/the-winner-is-a-tryhard/power-rankings-markdown-cli) to generate Markdown for power rankings populated with Sleeper fantasy football data for my league's new Gatsby site. I'm already loving our decision to leave ESPN.\n\n<img src=\"https://cdn.uploads.micro.blog/25666/2020/ab52ad8040.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-14T14:32:17-07:00",
 				"url": "https://micro.scottie.blog/2020/08/14/working-on-a.html"
 			},
 			{
 				"id": "http://scottie.micro.blog/2020/08/13/copper-wasp-by.html",
 				
-				"content_html": "<p>🎵 <a href=\"https://nightverses.bandcamp.com/album/from-the-gallery-of-sleep\">Copper Wasp by Night Verses</a></p>\n\n<p><img src=\"uploads/2020/8ddf4c1108.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "🎵 [Copper Wasp by Night Verses](https://nightverses.bandcamp.com/album/from-the-gallery-of-sleep)\n\n<img src=\"uploads/2020/8ddf4c1108.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>🎵 <a href=\"https://nightverses.bandcamp.com/album/from-the-gallery-of-sleep\">Copper Wasp by Night Verses</a></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25666/2020/8ddf4c1108.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🎵 [Copper Wasp by Night Verses](https://nightverses.bandcamp.com/album/from-the-gallery-of-sleep)\n\n<img src=\"https://cdn.uploads.micro.blog/25666/2020/8ddf4c1108.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-13T16:48:52-07:00",
 				"url": "https://micro.scottie.blog/2020/08/13/copper-wasp-by.html"
 			},
@@ -233,8 +233,8 @@
 			{
 				"id": "http://scottie.micro.blog/2020/08/04/polling-my-friends.html",
 				
-				"content_html": "<p>📝 Polling my friends about microblogging.</p>\n\n<p><img src=\"uploads/2020/251da137af.jpg\" width=\"600\" height=\"220\" alt=\"\" /><img src=\"uploads/2020/617b30dea9.jpg\" width=\"600\" height=\"244\" alt=\"\" /></p>\n",
-				"content_text": "📝 Polling my friends about microblogging.\n\n<img src=\"uploads/2020/251da137af.jpg\" width=\"600\" height=\"220\" alt=\"\" /><img src=\"uploads/2020/617b30dea9.jpg\" width=\"600\" height=\"244\" alt=\"\" />\n",
+				"content_html": "<p>📝 Polling my friends about microblogging.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25666/2020/251da137af.jpg\" width=\"600\" height=\"220\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/25666/2020/617b30dea9.jpg\" width=\"600\" height=\"244\" alt=\"\" /></p>\n",
+				"content_text": "📝 Polling my friends about microblogging.\n\n<img src=\"https://cdn.uploads.micro.blog/25666/2020/251da137af.jpg\" width=\"600\" height=\"220\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/25666/2020/617b30dea9.jpg\" width=\"600\" height=\"244\" alt=\"\" />\n",
 				"date_published": "2020-08-04T09:18:23-07:00",
 				"url": "https://micro.scottie.blog/2020/08/04/polling-my-friends.html"
 			},
